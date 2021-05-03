@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sauce/.dotnet/store/|arch|/|tfm|",
+      "/Users/sauce/.nuget/packages"
+    ]
+  }
+}
